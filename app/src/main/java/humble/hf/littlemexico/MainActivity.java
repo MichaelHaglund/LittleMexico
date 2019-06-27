@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         // linking image java to xml
         final ImageView leftDice = findViewById(R.id.image_leftDice);
         final ImageView rightDice = findViewById(R.id.image_rightDice);
-        final ImageView lifeDice = findViewById(R.id.image_lifeDice);
+        final ImageView lifeDice = findViewById(R.id.image_lifeDie);
 
         //array with dice images used in app
         final int[] diceArray = {R.drawable.dice1,
